@@ -60,7 +60,7 @@ Aiming for a reproducible, competitive pipeline that balances contextual modelin
 
 ## Tags
 
-`NLP` | `transformers` | `BERTweet` | `LightGBM` | `stacking` | `feature-engineering` | `Kaggle` | `text-classification` | `data-science` | `machine-learning` | `ensemble-learning` | `nlp-preprocessing` | `text-mining` | `pytorch` | `huggingface` | `model-stacking` | `eda`
+`NLP` | `transformers` | `BERTweet` | `LightGBM` | `stacking` | `feature-engineering` | `Kaggle` | `text-classification` | `data-science` | `machine-learning` | `ensemble-learning` | `nlp-preprocessing` | `text-mining` | `pytorch` | `huggingface` | `model-stacking` 
 
 ---
 
