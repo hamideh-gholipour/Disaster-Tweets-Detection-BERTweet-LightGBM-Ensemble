@@ -36,7 +36,8 @@ Minimal tweet-aware cleaning → BERTweet fine-tuning with Stratified K-Fold (OO
 
 * **Kaggle private LB**: `0.84462` — **Rank: 16**
 
-<img width="1272" height="351" alt="image" src="https://github.com/user-attachments/assets/bfa776ed-7fab-40f9-a8de-3a238938305b" />
+<img width="1290" height="284" alt="image" src="https://github.com/user-attachments/assets/4fe66c38-e3e3-45fa-ae15-e1a25d299f3d" />
+
 
 ---
 
